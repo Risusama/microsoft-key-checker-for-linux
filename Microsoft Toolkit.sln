@@ -3,18 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft Toolkit", "Microsoft Toolkit\Microsoft Toolkit.csproj", "{EC4FB0AB-9C5C-4259-95E8-58D233B1CEBF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoKMS", "AutoKMS\AutoKMS.csproj", "{26394726-54D4-488F-AEA9-E25726A0089C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRearm", "AutoRearm\AutoRearm.csproj", "{999BD28B-8AA7-4A25-89F3-295B24BF1B10}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activation", "Activation\Activation.csproj", "{E6858272-F0CF-42FA-A9E9-41D53441ECB1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRearm Installer", "AutoRearm Installer\AutoRearm Installer.csproj", "{58E4F9E3-CAFE-4E6E-A761-E6752EDDE92F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoKMS Installer", "AutoKMS Installer\AutoKMS Installer.csproj", "{0955566B-83F7-4C1B-BE36-9ECF23359324}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backup", "Backup\Backup.csproj", "{6E31F6E9-6952-4D8A-A1AD-0AA53A966871}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{D63FEFCC-43EE-4F21-96C0-23B615EE2CCF}"
@@ -24,22 +12,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "License", "License\License.csproj", "{1493F1E2-1515-4810-8A5C-26D45327FD29}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product Detection", "Product Detection\Product Detection.csproj", "{7418FB38-DD10-4B8D-8509-CF974494D200}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Office Uninstaller", "Office Uninstaller\Office Uninstaller.csproj", "{E6796DD3-4C96-473C-8AEA-F7675682454C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Office Installer", "Office Installer\Office Installer.csproj", "{979F5462-9E76-4978-B4CA-C53D1B920762}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMS Server Service Installer", "KMS Server Service Installer\KMS Server Service Installer.csproj", "{EC1A2069-AD9B-459A-83DB-5FF73667D0DE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configuration", "Configuration\Configuration.csproj", "{0F97C96B-F957-4B2F-8F2B-87C7E8AACE5D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMSEmulator", "KMSEmulator\KMSEmulator.csproj", "{B50F7908-9CF4-47CA-8D27-AAB960DAF5F4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDivert Loader", "WinDivert Loader\WinDivert Loader.csproj", "{1790C901-C7FF-413E-A29F-ACF61393A271}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reset Rearms", "Reset Rearms\Reset Rearms.csproj", "{901FD1FE-D12C-42AE-B5C6-E2744FDBF764}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAP Installer", "TAP Installer\TAP Installer.csproj", "{5CDB46FF-0D4A-40D2-B316-8A3C7F116285}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
